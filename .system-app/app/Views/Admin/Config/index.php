@@ -30,9 +30,9 @@
                                 <li class="nav-item" role="presentation">
                                     <button class="nav-link" id="digiflazz-tab" data-bs-toggle="tab" data-bs-target="#digiflazz" type="button" role="tab" aria-controls="digiflazz" aria-selected="false">DigiFlazz</button>
                                 </li>
-                                <li class="nav-item" role="presentation">
+                                <!--<li class="nav-item" role="presentation">
                                     <button class="nav-link" id="fonnte-tab" data-bs-toggle="tab" data-bs-target="#fonnte" type="button" role="tab" aria-controls="fonnte" aria-selected="false">Fonnte WhastApp Gateway</button>
-                                </li>
+                                </li>-->
                             </ul>
                             <div class="tab-content" id="myTabContent">
                                 <div class="tab-pane fade show active" id="umum" role="tabpanel" aria-labelledby="umum-tab">
@@ -89,7 +89,7 @@
                                                     <label class="col-form-label col-md-4">Lisensi Validasi Games</label>
                                                     <div class="col-md-8">
                                                         <input type="text" class="form-control" autocomplete="off" name="games_token" value="<?= $games_token; ?>">
-                                                        <small>Hubungi Developer di <a href="wa.me/6285654008642">+62 856 5400 8642</a> untuk mendapatkan lisensi</small>
+                                                        <small>Hubungi Developer di <a href="wa.me/6285641249270">+62 856-4124-9270</a> untuk mendapatkan lisensi</small>
                                                     </div>
                                                 </div>
                                                 <div class="mb-3 row">
@@ -232,7 +232,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="tab-pane fade" id="fonnte" role="tabpanel" aria-labelledby="fonnte-tab">
+                                <!--<div class="tab-pane fade" id="fonnte" role="tabpanel" aria-labelledby="fonnte-tab">
                                     <div class="card">
                                         <div class="card-body">
                                             <h5 class="card-title">Fonnte Whatsapp Gateway</h5>
@@ -251,7 +251,7 @@
                                             </form>
                                         </div>
                                     </div>
-                                </div>
+                                </div>-->
                             </div>
                         </div>
                     </div>
